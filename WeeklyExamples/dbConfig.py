@@ -5,6 +5,6 @@ def create_conn():
         host="localhost",
         user='infs3070',
         password='pydev',
-        database='infs3070'
+        database='INFS3070'
     )
     return conn
